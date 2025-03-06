@@ -8,9 +8,9 @@ from datetime import datetime
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-API_ID = "29365133"
-API_HASH = "722d0eb612a789286c0ed9966c473ddf"
-BOT_TOKEN = "7911656897:AAHFLx4AGAiD8gaODaxiflmSMFOuAZ_0zJI"
+API_ID = ""
+API_HASH = ""
+BOT_TOKEN = ""
 
 MYSQL_HOST = "localhost"
 MYSQL_USER = "root"
